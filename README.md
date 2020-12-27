@@ -1,6 +1,7 @@
 Intelligent Systems Project – RS Method to check Tautology
 
 ● To check if the given Propositional Formula is a tautology or not
+
 ● To display the fundamental leaves until the non-fundamental leaf is encountered in the
 tree implementation using resolution steps of RS (Rasiowa and Sikorski) method if the propositional formula is a tautology.
 
@@ -16,14 +17,22 @@ R is the set of rules of inference: R = {(∪), (¬∪),(∩),(¬∩),(⇒),(¬ 
 
 Software Requirements
 ● Programming Language: Python
+
 ● Python Version: Python3 or more
 
+
 Program Input: Propositional formula with following symbols and variables enclosed in quotes (‘’) based on python version.
+
 ● Enter the formula with variables a, b, c, d, p, q, r, s
+
 ● For the operation ‘and’ use ‘&’
+
 ● For the operation ‘or’ use ‘|’
+
 ● For the operation ‘implies’ use ‘>>’
+
 ● For the operation ‘not’ use ‘~’
+
 Please note while providing input: Use parentheses () while entering more than one operation. 
 
 Program Output: Output shows if the Expression is/ is not a tautology and displays the fundamental leaves until the non fundamental leaves are encountered while parsing if the propositional formula is a tautology.

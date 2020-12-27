@@ -25,6 +25,5 @@ Program Input: Propositional formula with following symbols and variables enclos
 ● For the operation ‘implies’ use ‘>>’
 ● For the operation ‘not’ use ‘~’
 Please note while providing input: Use parentheses () while entering more than one operation. 
-Sample Inputs: (a|(b&c))>>((a|b)&(a|c)), ((((a>>b))>>a)>>a), (~(a>>c)>>(~(c|d)>>(a&~c))), etc
 
 Program Output: Output shows if the Expression is/ is not a tautology and displays the fundamental leaves until the non fundamental leaves are encountered while parsing if the propositional formula is a tautology.

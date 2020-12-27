@@ -1,8 +1,8 @@
 **Intelligent Systems Project – RS Method to check Tautology**
 
-● To check if the given Propositional Formula is a tautology or not
+ To check if the given Propositional Formula is a tautology or not
 
-● To display the fundamental leaves until the non-fundamental leaf is encountered in the
+ To display the fundamental leaves until the non-fundamental leaf is encountered in the
 tree implementation using resolution steps of RS (Rasiowa and Sikorski) method if the propositional formula is a tautology.
 
 **Tautology:**
@@ -17,22 +17,22 @@ R is the set of rules of inference: R = {(∪), (¬∪),(∩),(¬∩),(⇒),(¬ 
 
 **Software Requirements**
 
-● Programming Language: Python
+Programming Language: Python
 
-● Python Version: Python3 or more
+Python Version: Python3 or more
 
 
 **Program Input:** Propositional formula with following symbols and variables enclosed in quotes (‘’) based on python version.
 
-● Enter the formula with variables a, b, c, d, p, q, r, s
+ Enter the formula with variables a, b, c, d, p, q, r, s
 
-● For the operation ‘and’ use ‘&’
+ For the operation ‘and’ use ‘&’
 
-● For the operation ‘or’ use ‘|’
+ For the operation ‘or’ use ‘|’
 
-● For the operation ‘implies’ use ‘>>’
+ For the operation ‘implies’ use ‘>>’
 
-● For the operation ‘not’ use ‘~’
+ For the operation ‘not’ use ‘~’
 
 Please note while providing input: Use parentheses () while entering more than one operation. 
 
@@ -41,20 +41,20 @@ Please note while providing input: Use parentheses () while entering more than o
 **Procedure to run the project program:**
 This includes executing program in both IDE and command window
 
-● Open the rs_verification_tautology.py file in IDE.
+Open the rs_verification_tautology.py file in IDE.
 
-● Click Run → Run Shell in Python IDE if using Python IDE to run the source code.
+Click Run → Run Shell in Python IDE if using Python IDE to run the source code.
 
-● Enter sample input as mentioned in code or in document and hit enter to see the results in
+Enter sample input as mentioned in code or in document and hit enter to see the results in
 IDE terminal
 
 Or
 
-● Place the program file to be executed in the current directory chosen for IDE.
+Place the program file to be executed in the current directory chosen for IDE.
 
-● To run the source code, type the input in the format python <File_name.py> in the IDE
+To run the source code, type the input in the format python <File_name.py> in the IDE
 terminal. For Example: python ​Project_RS_Method.py
 
-● Enter sample input as mentioned in code or in document and hit enter.
+Enter sample input as mentioned in code or in document and hit enter.
 
-● Results will be displayed in the terminal window.
+Results will be displayed in the terminal window.
